@@ -1,0 +1,10 @@
+C:\Users\oguzh\source\repos\irelia\irelia\bin\Debug\irelia.exe.config
+C:\Users\oguzh\source\repos\irelia\irelia\bin\Debug\irelia.exe
+C:\Users\oguzh\source\repos\irelia\irelia\bin\Debug\irelia.pdb
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.Form1.resources
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.Properties.Resources.resources
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.exe
+C:\Users\oguzh\source\repos\irelia\irelia\obj\Debug\irelia.pdb
